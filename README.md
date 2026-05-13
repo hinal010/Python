@@ -51,22 +51,4 @@ This Python file demonstrates the concept of **Encapsulation in Object-Oriented 
 
 ### 🚀 Purpose:
 This program helps understand how real-world banking systems protect user data and allow access only through secure methods.
-💡 Simple explanation (for your understanding)
-
-Your file likely does something like:
-
-__balance → private variable (hidden data)
-methods like deposit() / withdraw() → controlled access
-user cannot directly change balance
-
-That’s exactly Encapsulation in OOP.
-
-👍 If you want it PERFECT
-
-Paste your atm_encapsulation.py code here, and I will:
-✔ explain it line by line
-✔ improve your code
-✔ and write a 100% accurate README description
-
-Just send it 👍
 ---
